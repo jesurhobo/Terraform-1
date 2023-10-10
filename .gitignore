@@ -3,3 +3,7 @@
 draft
 .terraform/*
 *.tfstate
+.terraformrc
+terraform.rc
+.DS_Store
+crash.log
