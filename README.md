@@ -9,4 +9,5 @@ This project uses Terraform to create and manage AWS infrastructure components f
 The Terraform project is organized as follows:
 
 feature/deploy-to-ec2-default-components branch - contains raw terraform project
+
 feature/modules - contains the modularized terraform project
